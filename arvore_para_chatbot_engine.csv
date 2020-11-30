@@ -1,0 +1,176 @@
+ID,Pergunta,A,Nó A,B,Nó B
+1,Sqft_living é menor ou igual a 1845.0 ?,SIM,2,NÃO,3 
+2,Sqft_living é menor ou igual a 1535.0 ?,SIM,4,NÃO,5
+3,Sqft_living15 é menor ou igual a 2165.0 ?,SIM,6,NÃO,7
+4,Sqft_basament é menor ou igual a 345.0 ?,SIM,8,NÃO,9
+5,Sqft_living15 é menor ou igual a 1475.0 ?,SIM,10,NÃO,11
+6,Sqft_living é menor ou igual a 1945.0 ?,SIM,12,NÃO,13
+7,Sqft_living é menor ou igual a 2250.0 ?,SIM,14,NÃO,15
+8,Sqft_lot15 é menor ou igual a 3442.0 ?,SIM,16,NÃO,17
+9,Sqft_lot15 é menor ou igual a 7031.5 ?,SIM,18,NÃO,19
+10,NÓ FOLHA,A Casa é Barata,,,
+11,Sqft_living15 é menor ou igual a 1625.0 ?,SIM,20,NÃO,21
+12,Sqft_living15 é menor ou igual a 1975.0 ?,SIM,22,NÃO,23
+13,Grade é menor ou igual a 8.5 ?,SIM,24,NÃO,25
+14,Bathrooms é menor ou igual a 2.0 ?,SIM,26,NÃO,27
+15,Sqft_lot15 é menor ou igual a 11539.5 ?,SIM,28,NÃO,29
+16,NÓ FOLHA, A Casa é Barata,,,
+17,yr_built  é menor ou igual a 1920.5 ?,SIM,30,NÃO,31
+18,NÓ FOLHA,A Casa é Barata,,,
+19,Sqft_basament é menor ou igual a 505.0 ?,SIM,32,NÃO,33
+20,NÓ FOLHA,A Casa é Cara,,,
+21,Sqft_living15 é menor ou igual a 1695.0 ?,SIM,34,NÃO,35
+22,Condition é menor ou igual a 2.5 ?,SIM,36,NÃO,37
+23,Sqft_lot é menor ou igual a 7450.0 ?,SIM,38,NÃO,39
+24,NÓ FOLHA,A Casa é Barata,,,
+25,Bedrooms é menor ou igual 3.5 ?,SIM,40,NÃO,41
+26,Sqft_above é menor ou igual a 1935.0 ?,SIM,42,NÃO,43
+27,Sqft_living15 é menor ou igual a 2560.0 ?,SIM,44,NÃO,45
+28,Sqft_lot é menor ou igual a 5123.0 ?,SIM,46,NÃO,47
+29,Bedrooms é menor ou igual a 3.5 ?,SIM,48,NÃO,49
+30,NÓ FOLHA,A casa é Barata,,,
+31,Sqft_living é menor ou igual a 845.0 ?,SIM,50,NÃO,51
+32,Sqft_above é menor ou igual a 1090.0 ?,SIM,52,NÃO,53
+33,Sqft_basament é menor ou igual a 615.0 ?,SIM,54,NÃO,55
+34,NÓ FOLHA,A Casa é Barata,,,
+35,Bathrooms é menor ou igual a 2.625 ?,SIM,56,NÃO,57
+36,NÓ FOLHA,A Casa é Cara,,,
+37,Yr_built é menor ou igual a 1994.0 ?,SIM,58,NÃO,59
+38,NÓ FOLHA,A Casa é Barata,,,
+39,Sqft_above é menor ou igual a 1885 ?,SIM,60,NÃO,61
+40,NÓ FOLHA,A Casa é Cara,,,
+41,NÓ FOLHA,A Casa é Barata,,,
+42,Sqft_lot15 é menor ou igual a 8100.0 ?,SIM,62,NÃO,63
+43,NÓ FOLHA,A Casa é Barata,,,
+44,Yr_built é menor ou igual a 1990.5 ?,SIM,64,NÃO,65
+45,NÓ FOLHA,A Casa é Barata,,,
+46,Sqft_above é menor ou igual a 2913.5 ?,SIM,66,NÃO,67
+47,Sqft_lot é menor ou igual a 18200.5 ?,SIM,68,NÃO,69
+48,Sqft_above é menor ou igual a 1445.0 ?,SIM,70,NÃO,71
+49,Sqft_lot15 é menor ou igual a 12945.0 ?,SIM,72,NÃO,73
+50,Sqft_lot15 é menor ou igual a 9049.5 ?,SIM,74,NÃO,75
+51,Sqft_lot15 é menor ou igual a 8184.5 ?,SIM,76,NÃO,77
+52,Yr_built é menor ou igual a 1981.5 ?,SIM,78,NÃO,79
+53,Yr_built é menor ou igual a 1966.5 ?,SIM,80,NÃO,81
+54,NÓ FOLHA,A Casa é Barata,,,
+55,NÓ FOLHA,A Casa é Cara,,,
+56,Sqft_lot é menor ou igual a 7567.5 ?,SIM,82,NÃO,83
+57,NÓ FOLHA,A Casa é Barata,,,
+58,Sqft_lot é menor ou igual a 6641.5 ?,SIM,84,NÃO,85
+59,NÓ FOLHA,A Casa é Cara,,,
+60,NÓ FOLHA,A Casa é Cara,,,
+61,Sqft_living é menor ou igual a 1915.0 ?,SIM,86,NÃO,87
+62,NÓ FOLHA,A Casa é Barata,,,
+63,NÓ FOLHA,A Casa é Cara,,,
+64,Sqft_lot é menor ou igual a 7429.0 ?,SIM,88,NÃO,89
+65,Yr_built é menor ou igual a 2000.5 ?,SIM,90,NÃO,91
+66,NÓ FOLHA,A Casa é Cara,,,
+67,NÓ FOLHA,A Casa é Barata,,,
+68,Floors é menor ou igual a 2.25 ?,SIM,92,NÃO,93
+69,NÓ FOLHA,A Casa é Cara,,,
+70,NÓ FOLHA,A Casa é Barata,,,
+71,Sqrt_living é menor ou igual a 3595.0 ?,SIM,94,NÃO,95
+72,Sqrt_above é menor ou igual a 3405.0 ?,SIM,96,NÃO,97
+73,Bedrooms é menor ou igual a 4.5 ?,SIM,98,NÃO,99
+74,NÓ FOLHA,A Casa é Cara,,,
+75,Sqft_lot é menor ou igual a 8940.0 ?,SIM,100,NÃO,101
+76,NÓ FOLHA,A Casa é Cara,,,
+77,Sqft_lot é menor ou igual a 8308.5 ?,SIM,102,NÃO,103
+78,NÓ FOLHA,A Casa é Cara,,,
+79,NÓ FOLHA,A Casa é Barata,,,
+80,NÓ FOLHA,A Casa é Barata,,,
+81,Grade é menor ou igual a 7.5 ?,SIM,104,NÃO,105
+82,Bathrooms é menor ou igual a 2.375 ?,SIM,106,NÃO,107
+83,Sqft_lot é menor ou igual a 17080.0 ?,SIM,108,NÃO,109
+84,Sqft_lot15 é menor ou igual a 6715.0 ?,SIM,110,NÃO,111
+85,NÓ FOLHA,A Casa é Barata,,,
+86,NÓ FOLHA,A Casa é Barata,,,
+87,NÓ FOLHA,A Casa é Cara,,,
+88,NÓ FOLHA,A Casa é Barata,,,
+89,NÓ FOLHA,A Casa é Cara,,,
+90,NÓ FOLHA,A Casa é Barata,,,
+91,NÓ FOLHA,A Casa é Cara,,,
+92,Sqft_above é menor ou igual a 4717.0 ?,SIM,112,NÃO,113
+93,NÓ FOLHA,A Casa é Cara,,,
+94,Yr_built é menor ou igual a 1993.0 ?,SIM,114,NÃO,115
+95,NÓ FOLHA,A Casa é Barata,,,
+96,NÓ FOLHA,A Casa é Cara,,,
+97,NÓ FOLHA,A Casa é Barata,,,
+98,NÓ FOLHA,A Casa é Barata,,,
+99,NÓ FOLHA,A Casa é Cara,,,
+100,NÓ FOLHA,A Casa é Barata,,,
+101,Yr_built é menor ou igual a 1959.5 ?,SIM,116,NÃO,117
+102,Sqft_lot15 é menor ou igual a 8675.5 ?,SIM,118,NÃO,119
+103,Sqft_above é menor ou igual a 1131.0 ?,SIM,120,NÃO,121
+104,Sqft_living15 é menor ou igual a 1520.0 ?,SIM,122,NÃO,123
+105,NÓ FOLHA,A Casa é Cara,,,
+106,Sqft_lot é menor ou igual a 6700.0 ?,SIM,124,NÃO,125
+107,Yr_built é menor ou igual a 1986.0 ?,SIM,126,NÃO,127
+108,Yr_built é menor ou igual a 1986.5 ?,SIM,128,NÃO,129
+109,NÓ FOLHA,A Casa é Barata,,,
+110,NÓ FOLHA,A Casa é Barata,,,
+111,NÓ FOLHA,A Casa é Cara,,,
+112,Yr_built é menor ou igual a 1976.5 ?,SIM,130,NÃO,131
+113,NÓ FOLHA,A Casa é Cara,,,
+114,NÓ FOLHA,A Casa é Cara,,,
+115,Sqft_lot15 é menor ou igual a 14887.0 ?,SIM,132,NÃO,133
+116,NÓ FOLHA,A Casa é Barata,,,
+117,NÓ FOLHA,A Casa é Barata,,,
+118,NÓ FOLHA,A Casa é Barata,,,
+119,NÓ FOLHA,A Casa é Cara,,,
+120,NÓ FOLHA,A Casa é Cara,,,
+121,Sqtf_living15 é menor ou igual 1020.0?,SIM,134,NÃO,135
+122,NÓ FOLHA,A Casa é Cara,,,
+123,NÓ FOLHA,A Casa é Barata,,,
+124,Sqtf_living é menor ou igual 1630.0?,SIM,136,NÃO,137
+125,yr_built é menor ou igual 1967?,SIM,138,NÃO,139
+126,NÓ FOLHA,A Casa é Barata,,,
+127,NÓ FOLHA,A Casa é Cara,,,
+128,Sqtf_lot15 é menor ou igual 24352.0?,SIM,140,NÃO,141
+129,Sqtf_lot15 é menor ou igual 8381.0?,SIM,142,NÃO,143
+130,Sqtf_basement é menor ou igual a 782.0?,SIM,144,NÃO,145
+131,Sqtf_lot15 é menor ou igual 11227.5?,SIM,146,NÃO,147
+132,NÓ FOLHA,A Casa é Barata,,,
+133,NÓ FOLHA,A Casa é Cara,,,
+134,NÓ FOLHA,A Casa é Barata,,,
+135,Sqtf_living é menor ou igual 1145.0?,SIM,148,NÃO,149
+136,NÓ FOLHA,A Casa é Cara,,,
+137,Sqtf_lot15 é menor ou igual 6500.0?,SIM,150,NÃO,151
+138,Sqtf_lot15 é menor ou igual 7755.0?,SIM,152,NÃO,153
+139,NÓ FOLHA,A Casa é Barata,,,
+140,Bedrooms é menor ou igual 3.5?,SIM,154,NÃO,155
+141,NÓ FOLHA,A Casa é Barata,,,
+142,NÓ FOLHA,A Casa é Barata,,,
+143,Sqtf_above é menor ou igual 1445.0?,SIM,156,NÃO,157
+144,NÓ FOLHA,A Casa é Barata,,,
+145,Sqtf_lot15 é menor ou igual 8400.0?,SIM,158,NÃO,159
+146,NÓ FOLHA,A Casa é Barata,,,
+147,Sqtf_living é menor ou igual 2853.0?,SIM,160,NÃO,161
+148,NÓ FOLHA,A Casa é Barata,,,
+149,Condition é menor ou igual 3.5?,SIM,162,NÃO,163
+150,NÓ FOLHA,A Casa é Barata,,,
+151,NÓ FOLHA,A Casa é Barata,,,
+152,NÓ FOLHA,A Casa é Cara,,,
+153,NÓ FOLHA,A Casa é Barata,,,
+154,Sqtf_lot15 é menor ou igual 7798.0?,SIM,164,NÃO,165
+155,Sqtf_above é menor ou igual 1695.0?,SIM,166,NÃO,167
+156,NÓ FOLHA,A Casa é Barata,,,
+157,NÓ FOLHA,A Casa é Cara,,,
+158,NÓ FOLHA,A Casa é Cara,,,
+159,NÓ FOLHA,A Casa é Barata,,,
+160,NÓ FOLHA,A Casa é Cara,,,
+161,NÓ FOLHA,A Casa é Barata,,,
+162,Sqtf_living15 é menor ou igual 1430.0?,SIM,168,NÃO,169
+163,NÓ FOLHA,A Casa é Cara,,,
+164,Sqtf_lot15 é menor ou igual 7705.5?,SIM,170,NÃO,171
+165,NÓ FOLHA,A Casa é Cara,,,
+166,NÓ FOLHA,A Casa é Cara,,,
+167,NÓ FOLHA,A Casa é Barata,,,
+168,Sqtf_living15 é menor ou igual 1260.0?,SIM,172,NÃO,173
+169,NÓ FOLHA,A Casa é Cara,,,
+170,NÓ FOLHA,A Casa é Cara,,,
+171,NÓ FOLHA,A Casa é Barata,,,
+172,Sqtf_lot é menor ou igual 8790.0?,SIM,174,NÃO,175
+173,NÓ FOLHA,A Casa é Barata,,,
+174,NÓ FOLHA,A Casa é Barata,,,
+175,NÓ FOLHA,A Casa é Cara,,,
